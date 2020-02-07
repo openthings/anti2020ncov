@@ -8,7 +8,7 @@
 - 运行环境为Jupyter Notebook.
   - Jupyter Notebook参考： https://my.oschina.net/u/2306127?q=jupyter
 - 本项目采用nbdev（ https://github.com/fastai/nbdev ）创建。
-  - nbdev使用参考《文学式编程-nbdev入门教程》。
+  - nbdev使用参考《[文学式编程-nbdev入门教程](https://my.oschina.net/u/2306127/blog/3163740)》。
 
 该文件是本项目的索引文件.包含子目录：
 
