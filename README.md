@@ -13,7 +13,7 @@
 该文件是本项目的索引文件.包含子目录：
 
 - data，本项目用到的数据。
-  - events，发生的事件记录。
-  - analyst，基于上述数据和事件的分析结果。
-  - docs，本项目的文档。
-  - anti2020ncov，自动生成的python代码。
+- events，发生的事件记录。
+- analyst，基于上述数据和事件的分析结果。
+- docs，本项目的文档。
+- anti2020ncov，自动生成的python代码。
