@@ -11,6 +11,7 @@
 * 丁香园-新型冠状病毒肺炎疫情实时动态，https://ncov.dxy.cn/ncovh5/view/pneumonia?from=singlemessage&isappinstalled=0
 * 全国卫健委-新型冠状病毒肺炎疫情防控，http://www.nhc.gov.cn/xcs/xxgzbd/gzbd_index.shtml
 * 全国卫健委-官方网站，http://www.nhc.gov.cn
+* 世界卫生组织（WHO），https://www.who.int/zh
 
 ### 2、运行环境
 - 运行环境为Jupyter Notebook.
