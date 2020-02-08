@@ -33,4 +33,4 @@
 
 运行情况：
 
-![ui02](./images/ui01.png)
+![ui02](./images/ui02.png)
