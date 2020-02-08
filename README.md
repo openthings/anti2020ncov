@@ -30,3 +30,7 @@
 - analyst，基于上述数据和事件的分析结果。
 - docs，本项目的文档。
 - anti2020ncov，自动生成的python代码。
+
+运行情况：
+
+![ui02](./images/ui01.png)
